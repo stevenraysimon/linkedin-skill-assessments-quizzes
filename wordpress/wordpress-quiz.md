@@ -148,8 +148,8 @@
 
 #### Q19. Within the editor, blocks are rendered as JavaScript. How are blocks rendered on the front end of a site?
 
-- [ ] as plain HTML
-- [x] as a React component
+- [x] as plain HTML
+- [ ] as a React component
 - [ ] as JavaScript comments
 - [ ] as HTML comments
 
@@ -177,7 +177,7 @@ $.ready(function() {
 });
 ```
 
-- [ ] .
+- [x] .
 
 ```
 (function($) {
@@ -185,7 +185,7 @@ $.ready(function() {
 })( jQuery );
 ```
 
-- [x] .
+- [ ] .
 
 ```
 $(function() {
